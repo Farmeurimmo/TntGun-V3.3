@@ -2,19 +2,19 @@
 
 ![](https://raw.githubusercontent.com/ClementGre/TntGun-V3.3/master/TntGun-blacklogo.png)
 
-**Ce Plugin Minecraft, ajouté à GitHub uniquement en Juin 2019 est un de mes plus gros projets de développement. Ce fut le plugin principal de mon serveur Minecraft TntGun (Juillet 2017 -> 24 Janvier 2020)**
+**Ce Plugin Minecraft, ajouté à GitHub uniquement en Juin 2019 est, un de mes plus gros projets de développement. Ce fut le plugin principal de mon serveur Minecraft TntGun (Juillet 2017 -> 24 Janvier 2020)**
 
 C'est avec l'API Bukkit (Spigot & Paper) que j'ai débuté la programmation, c'est cette API qui m'a motivé et avec laquelle j'ai appris le Java. TntGun V3.3 est le prolongement de cette suite de serveurs que j'ai créé. Il est aussi mon dernier serveur Minecraft.
 
 ## Les fonctionnalités
 
-Ce plugin de plus de 20 mille lignes de code gérait la totalité du serveur, il offrait énormément de fonctionnalités dont :
+Ce plugin de plus de 20 000 lignes de code gérait la totalité du serveur, il offrait énormément de fonctionnalités dont :
 
 - API Discord et MySQL:
   - Lien total avec Discord (Chat et grades liés + Statistiques + Compteurs)
   - Lien avec le site WEB (Système de base de donnée MySQL)
   - Lien de Discord avec le site WEB (Support -> MySQL)
-  - Bot Discord complet avec système de BOT musicale.
+  - Bot Discord complet avec système de BOT produisant de la musique.
   
 - Gestions par défaut du serveur
   - Gestion du TAB et des Scoreboards
@@ -24,8 +24,8 @@ Ce plugin de plus de 20 mille lignes de code gérait la totalité du serveur, il
   - Système d'Informations régulières sur le serveur
   - Ajout de nombreuses commandes admin utiles (/misc rename, /misc boss, /misc getstat, /misc tag, /config, /setmoney etc.)
   - Recréation et création de commandes de base (/tpa, /tphere, /rtp, /spawn, /money etc.)
-  - Systèmes de grades + fonctions VIP
-  - Systèmes admin (Ban/Mute et informations sur les joueurs, sanctions automatiques et progressives).
+  - Système de grades + fonctions VIP
+  - Système admin (Ban/Mute et informations sur les joueurs, sanctions automatiques et progressives).
   - Système de statistiques hebdomadaires et quotidiennes (Graphique envoyé sur Discord -> Gestion d'images avec AWT)
   - Séparation du mode Survie et Créatif (Commandes / Permissions)
   - Création et gestion de nombreuses commandes de base en fonction des grades
@@ -40,7 +40,7 @@ Ce plugin de plus de 20 mille lignes de code gérait la totalité du serveur, il
   - Système de SHOP et inventaires interactifs.
   
 - Gestion du Mode de Jeu BedWars
-  - Le BedWars a été entièrement développé par moi même dans ce plugin. Cette catégorie contient donc toutes les fonctionalités d'un BedWars classique (Shops PNJ, Spawners, Regénération du monde (API WorldEdit), équipes etc.)
+  - Le BedWars a été entièrement développé par moi même dans ce plugin. Cette catégorie contient donc toutes les fonctionalités d'un BedWars classique (Shops PNJ, Spawneurs, Regénération du monde (API WorldEdit), équipes etc.)
 
 - Gestion du TntWars
   - Génération des maps (API WorldEdit)
@@ -90,7 +90,7 @@ Ce plugin a utilisé de nombreuses APIs :
   
 ## Le(s) site(s) internet
 
-Vous pouvez retrouver [ici](https://github.com/ClementGre/TntGun-V3.3-Website) le repository du site internet de TntGun V3.3 qui était hébergé à l'adresse tntgun.fr. Ce repository détail aussi mes debuts en HTML+ avec mes touts premiers sites web, ceux de TntGun V1, V2 et V3.0
+Vous pouvez retrouver [ici](https://github.com/ClementGre/TntGun-V3.3-Website) le repository du site internet de TntGun V3.3 qui était hébergé à l'adresse tntgun.fr. Ce repository détail aussi mes débuts en HTML+ avec mes tous premiers sites web, ceux de TntGun V1, V2 et V3.0
  
 ## Discord
  
